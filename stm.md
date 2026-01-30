@@ -1,3 +1,5 @@
 ## stm32f103rb
  
- first satz
+- internal flash  = 128 KB
+- Non-volatile
+  
